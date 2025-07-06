@@ -1,0 +1,2 @@
+E:/FlutterApp/blood_donation_app/android/app/.cxx/Debug/xj2a422j/x86_64/CMakeFiles/edit_cache.dir
+E:/FlutterApp/blood_donation_app/android/app/.cxx/Debug/xj2a422j/x86_64/CMakeFiles/rebuild_cache.dir
